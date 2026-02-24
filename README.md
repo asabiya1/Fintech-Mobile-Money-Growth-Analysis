@@ -58,6 +58,16 @@ Indexes were implemented to improve join and filtering performance.
 
 ## 🚀 Outcome
 
+---
+
+## 🖥 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Operational Insights
+![Operational Insights](operational_insights.png)
+
 This project demonstrates:
 
 - Relational database design  
